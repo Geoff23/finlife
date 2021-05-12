@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/summary"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="@string/summary"/>
+    <item
+        android:id="@+id/education"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_school_24"
+        android:title="@string/learn"/>
+    <item
+        android:id="@+id/career"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_work_24"
+        android:title="@string/earn"/>
+    <item
+        android:id="@+id/shopping"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_shopping_cart_24"
+        android:title="@string/save"/>
+    <item
+        android:id="@+id/investing"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_trending_up_24"
+        android:title="@string/invest"/>
+</menu>

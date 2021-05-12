@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="spring_green_300">#FF00FF80</color>
+    <color name="rose_400">#FFFF0080</color>
+    <color name="green_400">#FF00FF00</color>
+    <color name="cyan_200">#FF00FFFF</color>
+    <color name="cyan_400">#00F5FE</color>
+    <color name="azure_radiance_600">#FF0080FF</color>
+    <color name="electric_violet_500">#FF80FF</color>
+    <color name="background">#FF121212</color>
+    <color name="lighter_background">#FF242424</color>
+    <color name="black">#FF000000</color>
+    <color name="darker_grey">#FF333333</color>
+    <color name="dark_grey">#FF666666</color>
+    <color name="light_grey">#FF999999</color>
+    <color name="lighter_grey">#FFCCCCCC</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

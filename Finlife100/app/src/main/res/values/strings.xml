@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Finlife</string>
+    <string name="summary">Summary</string>
+    <string name="learn">Learn</string>
+    <string name="earn">Earn</string>
+    <string name="save">Save</string>
+    <string name="invest">Invest</string>
+    <string name="net_worth">Net Worth: %s</string>
+    <string name="add">Add</string>
+    <string name="subtract">Subtract</string>
+    <string name="multiply">Multiply</string>
+    <string name="divide">Divide</string>
+    <string name="age">Age: %s</string>
+    <string name="health">Health: %s</string>
+    <string name="happiness">Happiness: %s</string>
+    <string name="degree1">Engineering</string>
+    <string name="degree2">Law</string>
+    <string name="degree3">Medicine</string>
+    <string name="duration">%s years</string>
+    <string name="duration2">%s days left</string>
+    <string name="salary">%s</string>
+</resources>

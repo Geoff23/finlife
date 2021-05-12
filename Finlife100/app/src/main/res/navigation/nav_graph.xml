@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/summary">
+
+    <fragment
+        android:id="@+id/summary"
+        android:name="com.example.finlife100.fragments.SummaryFragment"
+        android:label="@string/summary"
+        tools:layout="@layout/fragment_summary" />
+    <fragment
+        android:id="@+id/learn"
+        android:name="com.example.finlife100.fragments.EducationFragment"
+        android:label="@string/learn"
+        tools:layout="@layout/fragment_education" />
+    <fragment
+        android:id="@+id/earn"
+        android:name="com.example.finlife100.fragments.CareerFragment"
+        android:label="@string/earn"
+        tools:layout="@layout/fragment_career" />
+    <fragment
+        android:id="@+id/save"
+        android:name="com.example.finlife100.fragments.ShoppingFragment"
+        android:label="@string/save"
+        tools:layout="@layout/fragment_shopping" />
+    <fragment
+        android:id="@+id/invest"
+        android:name="com.example.finlife100.fragments.InvestingFragment"
+        android:label="@string/invest"
+        tools:layout="@layout/fragment_investing" />
+</navigation>
